@@ -40,7 +40,6 @@
     <uses-permission android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.mail" />
     <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="28"></uses-sdk>
 
-
     <application android:name="CalendarApplication"
             android:label="@string/app_label" 
             android:icon="@mipmap/ic_launcher"
